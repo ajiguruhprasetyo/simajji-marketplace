@@ -1,0 +1,1 @@
+INSERT INTO `Customers` (`id`, `user_id`, `name`, `email`, `phone`, `image`, `address`, `status`, `created_at`, `updated_at`, `deleted_at`) VALUES (3, 9, 'Ripto', 'ripto@local.id', '2894284298', 'zhOWsCcp8j73Ql9X2c9UUrrncbxPa2cpEVXa1Vyw.png', 'Semarng cuk', 'active', '2022-01-22 14:00:16', '2022-01-22 14:19:11', NULL);

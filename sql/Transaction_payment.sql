@@ -1,0 +1,1 @@
+INSERT INTO `Transaction_payment` (`id`, `transaction_id`, `amount`, `bank_from`, `bank_to`, `note`, `image`, `status`, `success_at`, `reject_at`, `created_at`, `updated_at`) VALUES (1, 39, 80000.00, 'BNI', 'BRI', 'cepet ya', 'lptyC2X2prOkMYTq0NNXmEYbDT2OuTKUkElQM0xV.png', 'reject', NULL, '2022-01-23 15:26:44', '2022-01-23 15:00:29', '2022-01-23 15:26:44');

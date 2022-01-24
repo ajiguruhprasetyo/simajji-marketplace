@@ -1,0 +1,5 @@
+INSERT INTO `Merchants` (`id`, `user_id`, `merchant_name`, `created_at`, `created_by`, `updated_at`, `updated_by`) VALUES (1, 1, 'Fokus software Semarang', '2022-01-18 15:55:01', 1, '2022-01-22 12:14:30', 2);
+INSERT INTO `Merchants` (`id`, `user_id`, `merchant_name`, `created_at`, `created_by`, `updated_at`, `updated_by`) VALUES (2, 2, 'Merchant 2', '2022-01-18 15:55:01', 2, '2022-01-18 15:55:01', 2);
+INSERT INTO `Merchants` (`id`, `user_id`, `merchant_name`, `created_at`, `created_by`, `updated_at`, `updated_by`) VALUES (3, 2, 'Omah Prahu', '2022-01-21 10:30:34', 2, '2022-01-21 10:30:34', 2);
+INSERT INTO `Merchants` (`id`, `user_id`, `merchant_name`, `created_at`, `created_by`, `updated_at`, `updated_by`) VALUES (4, 2, 'Co Working Space', '2022-01-21 10:30:50', 2, '2022-01-21 10:30:50', 2);
+INSERT INTO `Merchants` (`id`, `user_id`, `merchant_name`, `created_at`, `created_by`, `updated_at`, `updated_by`) VALUES (5, 2, 'Co Working Space 3', '2022-01-21 10:38:35', 2, '2022-01-21 10:38:35', 2);
